@@ -1,0 +1,21 @@
+/* for solving css cascade problem of ipynb and monokai pygmets css file .
+   Here add classes which are manipulated by pygmets css.
+   Here, hl-ipython3 and highlight css class is applied to every code div by pelican-ipynp plugin.
+   Pygment also use highlight class. So. here we can use hl-ipython3 to change colors.
+*/
+
+.hl-ipython3 .p { color: #000000 }
+.hl-ipython3 .n { color: #000000 } 
+
+.prompt {display: none;}
+
+/* *************************************************************************************** */
+
+/* responsive image. just specify width in liquid tags. and use class center-image.*/
+.center-image {    
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    max-width: 100%;
+}
