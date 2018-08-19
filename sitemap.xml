@@ -4,35 +4,35 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2018-08-19T12:32:25-00:00</lastmod>
+<loc>http://NishantBhavsar.github.io/</loc>
+<lastmod>2018-08-19T14:05:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2018-08-19T12:32:25-00:00</lastmod>
+<loc>http://NishantBhavsar.github.io/archives.html</loc>
+<lastmod>2018-08-19T14:05:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2018-08-19T12:32:25-00:00</lastmod>
+<loc>http://NishantBhavsar.github.io/tags.html</loc>
+<lastmod>2018-08-19T14:05:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2018-08-19T12:32:25-00:00</lastmod>
+<loc>http://NishantBhavsar.github.io/categories.html</loc>
+<lastmod>2018-08-19T14:05:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/about</loc>
+<loc>http://NishantBhavsar.github.io/about</loc>
 <lastmod>2018-08-19T11:55:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
