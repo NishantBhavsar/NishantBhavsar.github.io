@@ -4,35 +4,35 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://nishantbhavsar.com/</loc>
-<lastmod>2018-08-19T19:06:28-00:00</lastmod>
+<loc>https://nishantbhavsar.com/</loc>
+<lastmod>2018-08-19T21:23:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://nishantbhavsar.com/archives.html</loc>
-<lastmod>2018-08-19T19:06:28-00:00</lastmod>
+<loc>https://nishantbhavsar.com/archives.html</loc>
+<lastmod>2018-08-19T21:23:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://nishantbhavsar.com/tags.html</loc>
-<lastmod>2018-08-19T19:06:28-00:00</lastmod>
+<loc>https://nishantbhavsar.com/tags.html</loc>
+<lastmod>2018-08-19T21:23:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://nishantbhavsar.com/categories.html</loc>
-<lastmod>2018-08-19T19:06:28-00:00</lastmod>
+<loc>https://nishantbhavsar.com/categories.html</loc>
+<lastmod>2018-08-19T21:23:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://nishantbhavsar.com/about</loc>
+<loc>https://nishantbhavsar.com/about</loc>
 <lastmod>2018-08-19T11:55:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
